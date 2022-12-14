@@ -8,7 +8,7 @@ body{
 .list{
     text-align: left;
     color: rgb(126, 37, 37);
-    font-family: fantasy;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: large;
 }
 .wishlist{
@@ -16,7 +16,7 @@ body{
     font-size: xx-large;
     text-align: left;
     text-decoration: underline;
-    font-family: fantasy;
+    font-family: cursive;
 }
 .subheadings{
     color: rgb(126, 37, 37);
