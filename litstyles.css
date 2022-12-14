@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(255, 239, 213);
+    color: rgb(68, 78, 50);
+    font-size: xx-large;
+    font-family: cursive;
+    text-align: center;
+}
+.list{
+    text-align: left;
+    color: rgb(126, 37, 37);
+    font-family: fantasy;
+    font-size: large;
+}
+.wishlist{
+    color: rgb(68, 78, 50);
+    font-size: xx-large;
+    text-align: left;
+    text-decoration: underline;
+    font-family: fantasy;
+}
+.subheadings{
+    color: rgb(126, 37, 37);
+    text-decoration: underline;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
